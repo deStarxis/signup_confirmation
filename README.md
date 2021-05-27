@@ -1,4 +1,4 @@
-# Sign Up Confirmations via Email in MERN stack
+# Sign Up Confirmation via Email in MERN stack application
 
 ## Going through this project
 
